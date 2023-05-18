@@ -1,3 +1,10 @@
+/**const form = document.getElementById('formulario');
+form.addEventListener('submit', function(event){
+    alert    
+    event.preventDefault();
+})
+**/
+
 let menuVisible = false;
 //Función que oculta o muestra el menu
 function mostrarOcultarMenu(){

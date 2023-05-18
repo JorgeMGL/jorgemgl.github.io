@@ -146,7 +146,7 @@ html{
 .sobremi .contenido-seccion p{
     font: 18px;
     line-height: 22px;
-    margin-bottom: 20px;
+    margin-bottom: 80px;
 }
 .sobremi .contenido-seccion p span{
     color: var(--verde);
@@ -386,6 +386,7 @@ html{
     100%{width: 94%;}
 }
 /* SECCION CURRICULUM */
+/*
 .curriculum{
     background-color: var(--gris-oscuro);
     color: var(--blanco);
@@ -491,6 +492,7 @@ html{
     position: relative;
     bottom: 4px;
 }
+*/
 /* SECCION PORTFOLIO */
 .portafolio{
     background-color: var(--gris-claro);
